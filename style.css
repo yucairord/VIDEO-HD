@@ -47,7 +47,7 @@ header .overlay {
     border-radius: 30px;
 }
 
-@media (pointer: coarse) and (hover: none) {
+media (pointer: coarse) and (hover: none) {
     header {
         /* background: url('https://i.bongacash.com/postitial/adult/coral/stream_720.mp4') black no-repeat center center scroll; */
     }
